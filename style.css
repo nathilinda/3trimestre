@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Oleo+Script:wght@400;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Borel&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
 
 :root{
     --bg-color:rgba(237, 200, 246, 0.699);
@@ -9,7 +8,7 @@
 
 body {
     background-color: var(--bg-color);
-    font-family: 'Merriweather';
+    font-family: 'Borel';
 }
 
     h1, h2, h4, h5, h6{
